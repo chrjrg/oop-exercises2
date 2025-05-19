@@ -1,0 +1,12 @@
+[submodule "design_patterns"]
+	path = design_patterns
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/design_patterns/chrjo24.git
+[submodule "ciphers-and-polymorphism"]
+	path = ciphers-and-polymorphism
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-2/ciphers-and-polymorphism.git
+[submodule "avalonia-introduction"]
+	path = avalonia-introduction
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-2/avalonia-introduction.git
+[submodule "search-and-replace"]
+	path = search-and-replace
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-3/search-and-replace.git
