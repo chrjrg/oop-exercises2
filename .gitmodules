@@ -10,3 +10,33 @@
 [submodule "search-and-replace"]
 	path = search-and-replace
 	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-3/search-and-replace.git
+[submodule "french_mountains"]
+	path = french_mountains
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/design_patterns/chrjo24.git
+[submodule "unit-testing-fndyttpi"]
+	path = unit-testing-fndyttpi
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/unit_testing/unit-testing-fndyttpi.git
+[submodule "test_assignments"]
+	path = test_assignments
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/test_assignments/chrjo24.git
+[submodule "threads"]
+	path = threads
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-6/threads.git
+[submodule "synchronization-animation-control"]
+	path = synchronization-animation-control
+	url = git@gitlab.sdu.dk:vop-f25/lesson7/exercise/synchronization-animation-control.git
+[submodule "callback-and-circular-buffer"]
+	path = callback-and-circular-buffer
+	url = git@gitlab.sdu.dk:vop-f25/lesson8/exercise/callback-and-circular-buffer.git
+[submodule "enums-and-switch-expressions-array-manipulation"]
+	path = enums-and-switch-expressions-array-manipulation
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-9/enums-and-switch-expressions-array-manipulation.git
+[submodule "test-assignments-part-2-maihbfqu"]
+	path = test-assignments-part-2-maihbfqu
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/test_assignments_part2/test-assignments-part-2-maihbfqu.git
+[submodule "matching-brackets"]
+	path = matching-brackets
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-11/matching-brackets.git
+[submodule "exam-prep"]
+	path = exam-prep
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-12/exam-prep.git
