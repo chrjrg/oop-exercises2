@@ -40,3 +40,6 @@
 [submodule "exam-prep"]
 	path = exam-prep
 	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/templates/lesson-12/exam-prep.git
+[submodule "french_mountainsX"]
+	path = french_mountainsX
+	url = git@gitlab.sdu.dk:scalable-teaching-tasks/videregaende-objektorienteret-programmering-f25/french_mountains/chrjo24.git
